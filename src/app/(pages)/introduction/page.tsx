@@ -1,4 +1,4 @@
-import { LayoutPages } from "@/app/components/layout";
+import { LayoutPages } from "@/app/components/layoutPage";
 
 export default function IntroductionPage() {
   return (
