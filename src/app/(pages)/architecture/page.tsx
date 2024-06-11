@@ -1,5 +1,5 @@
 "use client";
-import { LayoutPages } from "@/app/components/layout";
+import { LayoutPages } from "@/app/components/layoutPage";
 import { Tabs, TabsProps } from "antd";
 import Image from "next/image";
 

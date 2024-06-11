@@ -1,5 +1,5 @@
 "use client";
-import { LayoutPages } from "@/app/components/layout";
+import { LayoutPages } from "@/app/components/layoutPage";
 import { Tabs } from "antd";
 import type { TabsProps } from "antd";
 
